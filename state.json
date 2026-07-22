@@ -2,12 +2,6 @@
   "initialized": true,
   "products": [
     {
-      "id": "356138425",
-      "name": "AMPLIFICADOR DYLON TUBE 100W CON 2 CAJAS 1X12 *USADO*",
-      "price": "$350.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/amplificador-dylon-tube-100w-con-2-cajas-1x12-usado-16k7n/"
-    },
-    {
       "id": "356113686",
       "name": "AMPLIFICADOR COMBO BLACKSTAR HT-1 PARA GUITARRA 1 WATT VALVULAR *USADO*",
       "price": "$399.000,00",
@@ -72,6 +66,12 @@
       "name": "PEDAL BOSS VE-1 PARA VOCES *USADO*",
       "price": "$350.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/pedal-boss-ve-1-para-voces-usado-r257m/"
+    },
+    {
+      "id": "355168024",
+      "name": "PEDALERA KORG AX3000G MULTIEFECTO *USADO*",
+      "price": "$250.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedalera-korg-ax3000g-multiefecto-usado-1md2o/"
     }
   ]
 }
