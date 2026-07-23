@@ -44,12 +44,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-sx-sg-red-wine-usado-1en6v/"
     },
     {
-      "id": "357069259",
-      "name": "GUITARRA ELECTROACUSTICA PARQUER GAC500LBEQ *USADO*",
-      "price": "$190.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/guitarra-electroacustica-parquer-gac500lbeq-usado-1bxl2/"
-    },
-    {
       "id": "357045957",
       "name": "PEDAL MOSKY AUDIO BUFFERED SPLITTER *USADO*",
       "price": "$25.000,00",
@@ -72,6 +66,12 @@
       "name": "GUITARRA ELECTROACUSTICA CORT AD880CE NS *USADO*",
       "price": "$300.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/guitarra-electroacustica-cort-ad880ce-ns-usado-9jjfm/"
+    },
+    {
+      "id": "356746687",
+      "name": "PEDAL BOSS LOOP STATION RC-500 *USADO*",
+      "price": "$550.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-boss-loop-station-rc-500-usado-c9iv7/"
     }
   ]
 }
