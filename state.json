@@ -2,6 +2,18 @@
   "initialized": true,
   "products": [
     {
+      "id": "357454329",
+      "name": "Amplificador Kokko KG-10 Para Guitarra Batería Recargable 10 Watts *USADO*",
+      "price": "$89.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/amplificador-kokko-kb-10-para-guitarra-bateria-recargable-10-watts-usado-g7xe0/"
+    },
+    {
+      "id": "357427539",
+      "name": "Caja Potenciada Alto Professional TX412B TX Series 600 Watt Bateria Interna Bluetooth *USADO*",
+      "price": "$489.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/caja-potenciada-alto-professional-tx412b-tx-series-600-watt-bateria-interna-bluetooth-usado-1v43r/"
+    },
+    {
       "id": "356113686",
       "name": "AMPLIFICADOR COMBO BLACKSTAR HT-1 PARA GUITARRA 1 WATT VALVULAR *USADO*",
       "price": "$399.000,00",
@@ -32,12 +44,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/procesador-behringer-rack-v-amp-pro-para-guitarra-usado-s90pb/"
     },
     {
-      "id": "357267677",
-      "name": "GUITARRA ELECTRICA JET GUITARS JS400 OW + FUNDA RB10 *USADO*",
-      "price": "$399.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-jet-guitars-js400-ow-funda-rb10-usado-bhppe/"
-    },
-    {
       "id": "357094153",
       "name": "GUITARRA ELECTRICA SX SG RED WINE *USADO*",
       "price": "$300.000,00",
@@ -56,22 +62,16 @@
       "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-jackson-js34q-dinky-dka-m-transparent-blue-usado-17t67/"
     },
     {
-      "id": "356751145",
-      "name": "GUITARRA ELECTRICA EPIPHONE SG SPECIAL SATIN E1 VINTAGE WORN EBONY *USADO*",
-      "price": "$370.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-epiphone-sg-special-satin-e1-vintage-worn-ebony-usado-iqrvd/"
-    },
-    {
-      "id": "356746687",
-      "name": "PEDAL BOSS LOOP STATION RC-500 *USADO*",
-      "price": "$550.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedal-boss-loop-station-rc-500-usado-c9iv7/"
-    },
-    {
       "id": "356745301",
       "name": "PEDAL AGUILAR FILTER TWIN AUTO WAH PARA BAJO *USADO*",
       "price": "$260.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/pedal-aguilar-filter-twin-auto-wah-para-bajo-usado-8e2p3/"
+    },
+    {
+      "id": "356737492",
+      "name": "POTENCIA PEAVEY CLASSIC SERIES 60/60 *USADO*",
+      "price": "$450.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/potencia-peavey-classic-series-60-60-usado-sqdgr/"
     }
   ]
 }
