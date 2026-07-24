@@ -44,12 +44,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-jet-guitars-js400-ow-funda-rb10-usado-bhppe/"
     },
     {
-      "id": "357266258",
-      "name": "GUITARRA ELECTRICA SCHECTER HELLRAISER C-1 FR BLACK CHERRY *USADO*",
-      "price": "$990.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-schecter-hellraiser-c-1-fr-black-cherry-usado-1qbw4/"
-    },
-    {
       "id": "357094153",
       "name": "GUITARRA ELECTRICA SX SG RED WINE *USADO*",
       "price": "$300.000,00",
@@ -72,6 +66,12 @@
       "name": "GUITARRA ELECTRICA EPIPHONE SG SPECIAL SATIN E1 VINTAGE WORN EBONY *USADO*",
       "price": "$370.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-epiphone-sg-special-satin-e1-vintage-worn-ebony-usado-iqrvd/"
+    },
+    {
+      "id": "356746687",
+      "name": "PEDAL BOSS LOOP STATION RC-500 *USADO*",
+      "price": "$550.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-boss-loop-station-rc-500-usado-c9iv7/"
     }
   ]
 }
