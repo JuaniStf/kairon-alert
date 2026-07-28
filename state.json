@@ -8,18 +8,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/caja-potenciada-alto-professional-tx412b-tx-series-600-watt-bateria-interna-bluetooth-usado-1v43r/"
     },
     {
-      "id": "357863756",
-      "name": "PEDALERA NUX MG-30 MULTIEFECTO *USADO*",
-      "price": "$390.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedalera-nux-mg-30-multiefecto-usado-1c6fg/"
-    },
-    {
-      "id": "357857089",
-      "name": "PEDALERA M-VAVE MK-300 MULTIEFECTO *USADO*",
-      "price": "$270.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedal-m-vave-mk-300-multiefecto-usado-12k94/"
-    },
-    {
       "id": "357832706",
       "name": "PEDAL LINE 6 DL4 DELAY MODELER *USADO*",
       "price": "$250.000,00",
@@ -44,12 +32,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/pedalera-korg-ax5g-multiefecto-para-guitarra-usado-19gz9/"
     },
     {
-      "id": "357826786",
-      "name": "PEDALERA HEADRUSH PEDALBOARD MULTIEFECTO *USADO*",
-      "price": "$750.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedalera-headrush-pedalboard-multiefecto-usado-kvgu0/"
-    },
-    {
       "id": "356113686",
       "name": "AMPLIFICADOR COMBO BLACKSTAR HT-1 PARA GUITARRA 1 WATT VALVULAR *USADO*",
       "price": "$399.000,00",
@@ -68,10 +50,28 @@
       "url": "https://www.kaironmusic.com.ar/productos/pad-de-percusion-y-disparador-alesis-samplepad-4-usado-1jslc/"
     },
     {
+      "id": "351266337",
+      "name": "PEDAL DEMONFX BE-ODX PLUS OVERDRIVE *USADO*",
+      "price": "$65.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-demonfx-be-odx-plus-overdrive-usado-br5nr/"
+    },
+    {
       "id": "346655626",
       "name": "PROCESADOR BEHRINGER RACK V-AMP PRO PARA GUITARRA *USADO*",
       "price": "$179.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/procesador-behringer-rack-v-amp-pro-para-guitarra-usado-s90pb/"
+    },
+    {
+      "id": "357887816",
+      "name": "PEDAL MOSKY AUDIO PURE BUFFER *USADO*",
+      "price": "$25.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-mosky-audio-pure-buffer-usado-p3r3k/"
+    },
+    {
+      "id": "357887168",
+      "name": "SISTEMA PERSONAL PARA MNITOREO DE AURICULARES ANLEON S1 STEREO *USADO*",
+      "price": "$40.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/sistema-personal-para-mnitoreo-de-auriculares-anleon-s1-stereo-usado-o3fft/"
     }
   ]
 }
