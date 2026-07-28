@@ -32,12 +32,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/procesador-behringer-rack-v-amp-pro-para-guitarra-usado-s90pb/"
     },
     {
-      "id": "357460465",
-      "name": "PEDALERA KORG AX3000G MULTIEFECTO *USADO*",
-      "price": "$230.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedalera-korg-ax3000g-multiefecto-usado-lhr34/"
-    },
-    {
       "id": "357094153",
       "name": "GUITARRA ELECTRICA SX SG RED WINE *USADO*",
       "price": "$300.000,00",
@@ -72,6 +66,12 @@
       "name": "SISTEMA INALAMBRICO SAMSON STAGE SERIES II VHFM *USADO*",
       "price": "$100.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/sistema-inalambrico-samson-stage-series-ii-vhfm-usado-i0qlo/"
+    },
+    {
+      "id": "355278233",
+      "name": "PEDALERA LINE 6 FX100 MULTIEFECTO *USADO*",
+      "price": "$249.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedalera-line-6-fx100-multiefecto-usado-1qzcu/"
     }
   ]
 }
