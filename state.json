@@ -8,22 +8,10 @@
       "url": "https://www.kaironmusic.com.ar/productos/caja-potenciada-alto-professional-tx412b-tx-series-600-watt-bateria-interna-bluetooth-usado-1v43r/"
     },
     {
-      "id": "357832706",
-      "name": "PEDAL LINE 6 DL4 DELAY MODELER *USADO*",
-      "price": "$250.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedal-line-6-dl4-delay-modeler-usado-188s9/"
-    },
-    {
       "id": "357831599",
       "name": "PEDAL BOSS ML-2 METAL CORE DISTORTION *USADO*",
       "price": "$130.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/pedal-boss-ml-2-metal-core-distortion-usado-gmu2o/"
-    },
-    {
-      "id": "357829012",
-      "name": "PEDAL M-VAVE IR BOX CARGA DE IMPULSOS *USADO*",
-      "price": "$35.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedal-m-vave-ir-box-carga-de-impulsos-usado-k1aon/"
     },
     {
       "id": "357828038",
@@ -50,6 +38,12 @@
       "url": "https://www.kaironmusic.com.ar/productos/pad-de-percusion-y-disparador-alesis-samplepad-4-usado-1jslc/"
     },
     {
+      "id": "355158381",
+      "name": "PEDAL HEADRUSH VX5 VOCAL PROCESSING *USADO*",
+      "price": "$550.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-headrush-vx5-vocal-processing-usado-xwj7p/"
+    },
+    {
       "id": "346655626",
       "name": "PROCESADOR BEHRINGER RACK V-AMP PRO PARA GUITARRA *USADO*",
       "price": "$179.000,00",
@@ -72,6 +66,12 @@
       "name": "PEDAL AGUILAR FILTER TWIN AUTO WAH PARA BAJO *USADO*",
       "price": "$260.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/pedal-aguilar-filter-twin-auto-wah-para-bajo-usado-8e2p3/"
+    },
+    {
+      "id": "356737492",
+      "name": "POTENCIA PEAVEY CLASSIC SERIES 60/60 *USADO*",
+      "price": "$450.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/potencia-peavey-classic-series-60-60-usado-sqdgr/"
     }
   ]
 }
