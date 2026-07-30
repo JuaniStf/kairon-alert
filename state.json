@@ -8,6 +8,12 @@
       "url": "https://www.kaironmusic.com.ar/productos/caja-potenciada-alto-professional-tx412b-tx-series-600-watt-bateria-interna-bluetooth-usado-1v43r/"
     },
     {
+      "id": "358293888",
+      "name": "PEDALERA HEADRUSH MX5 MULTIEFECTO PARA GUITARRA O BAJO *USADO*",
+      "price": "$550.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedalera-headrush-mx5-multiefecto-para-guitarra-o-bajo-usado-1kboc/"
+    },
+    {
       "id": "357828038",
       "name": "PEDALERA KORG AX5G MULTIEFECTO PARA GUITARRA *USADO*",
       "price": "$150.000,00",
@@ -38,40 +44,34 @@
       "url": "https://www.kaironmusic.com.ar/productos/procesador-behringer-rack-v-amp-pro-para-guitarra-usado-s90pb/"
     },
     {
-      "id": "357887168",
-      "name": "SISTEMA PERSONAL PARA MNITOREO DE AURICULARES ANLEON S1 STEREO *USADO*",
+      "id": "358423542",
+      "name": "PEDAL FLAMMA FV05 RECORDER *USADO*",
+      "price": "$150.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-flamma-fv05-recorder-usado-1simi/"
+    },
+    {
+      "id": "358421822",
+      "name": "Pedal Flamma FS02 Reverb *USADO*",
+      "price": "$70.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-flamma-fs02-reverb-usado-1be0h/"
+    },
+    {
+      "id": "358413223",
+      "name": "Pedal Joyo Dark Flame Distortion *USADO*",
+      "price": "$80.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-joyo-dark-flame-distortion-usado-1pab6/"
+    },
+    {
+      "id": "358319104",
+      "name": "PEDAL TC ELECTRONIC GRAND MAGUS DISTORTION *USADO*",
       "price": "$40.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/sistema-personal-para-mnitoreo-de-auriculares-anleon-s1-stereo-usado-o3fft/"
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-tc-electronic-grand-magus-distortion-usado-uow2g/"
     },
     {
-      "id": "357876368",
-      "name": "PEDAL JOYO BLUE RAIN OVERDRIVE *USADO*",
-      "price": "$35.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedal-joyo-blue-rain-overdrive-usado-1mp34/"
-    },
-    {
-      "id": "356745301",
-      "name": "PEDAL AGUILAR FILTER TWIN AUTO WAH PARA BAJO *USADO*",
-      "price": "$260.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedal-aguilar-filter-twin-auto-wah-para-bajo-usado-8e2p3/"
-    },
-    {
-      "id": "356737492",
-      "name": "POTENCIA PEAVEY CLASSIC SERIES 60/60 *USADO*",
-      "price": "$450.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/potencia-peavey-classic-series-60-60-usado-sqdgr/"
-    },
-    {
-      "id": "356137019",
-      "name": "GUITARRA ELECTRICA AXL GUITARS BADWATER EL DORADO TELECASTER *USADO*",
-      "price": "$290.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-axl-guitars-badwater-el-dorado-telecaster-usado-9gq8c/"
-    },
-    {
-      "id": "355278233",
-      "name": "PEDALERA LINE 6 FX100 MULTIEFECTO *USADO*",
-      "price": "$249.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedalera-line-6-fx100-multiefecto-usado-1qzcu/"
+      "id": "358317785",
+      "name": "PEDAL FLAMMA FV04 HARMONY PARA VOCES *USADO*",
+      "price": "$150.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-flamma-fv04-harmony-para-voces-usado-yly3e/"
     }
   ]
 }
