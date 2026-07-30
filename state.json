@@ -8,18 +8,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/caja-potenciada-alto-professional-tx412b-tx-series-600-watt-bateria-interna-bluetooth-usado-1v43r/"
     },
     {
-      "id": "358274532",
-      "name": "PEDALERA M-VAVE MK-300 MULTIEFECTO *USADO*",
-      "price": "$250.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedalera-m-vave-mk-300-multiefecto-usado-os1gr/"
-    },
-    {
-      "id": "357831599",
-      "name": "PEDAL BOSS ML-2 METAL CORE DISTORTION *USADO*",
-      "price": "$130.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedal-boss-ml-2-metal-core-distortion-usado-gmu2o/"
-    },
-    {
       "id": "357828038",
       "name": "PEDALERA KORG AX5G MULTIEFECTO PARA GUITARRA *USADO*",
       "price": "$150.000,00",
@@ -30,12 +18,6 @@
       "name": "AMPLIFICADOR COMBO BLACKSTAR HT-1 PARA GUITARRA 1 WATT VALVULAR *USADO*",
       "price": "$399.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/amplificador-combo-blackstar-ht-1-para-guitarra-1-watt-usado-srybk/"
-    },
-    {
-      "id": "356099344",
-      "name": "CAJA HARTKE XL SERIES 4.5 XL PARA BAJO *USADO*",
-      "price": "$800.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/caja-hartke-xl-series-4-5-xl-para-bajo-usado-16501/"
     },
     {
       "id": "356096776",
@@ -72,6 +54,24 @@
       "name": "PEDAL AGUILAR FILTER TWIN AUTO WAH PARA BAJO *USADO*",
       "price": "$260.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/pedal-aguilar-filter-twin-auto-wah-para-bajo-usado-8e2p3/"
+    },
+    {
+      "id": "356737492",
+      "name": "POTENCIA PEAVEY CLASSIC SERIES 60/60 *USADO*",
+      "price": "$450.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/potencia-peavey-classic-series-60-60-usado-sqdgr/"
+    },
+    {
+      "id": "356137019",
+      "name": "GUITARRA ELECTRICA AXL GUITARS BADWATER EL DORADO TELECASTER *USADO*",
+      "price": "$290.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-axl-guitars-badwater-el-dorado-telecaster-usado-9gq8c/"
+    },
+    {
+      "id": "355278233",
+      "name": "PEDALERA LINE 6 FX100 MULTIEFECTO *USADO*",
+      "price": "$249.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedalera-line-6-fx100-multiefecto-usado-1qzcu/"
     }
   ]
 }
