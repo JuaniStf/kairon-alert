@@ -14,12 +14,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/pedalera-headrush-mx5-multiefecto-para-guitarra-o-bajo-usado-1kboc/"
     },
     {
-      "id": "357828038",
-      "name": "PEDALERA KORG AX5G MULTIEFECTO PARA GUITARRA *USADO*",
-      "price": "$150.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedalera-korg-ax5g-multiefecto-para-guitarra-usado-19gz9/"
-    },
-    {
       "id": "356113686",
       "name": "AMPLIFICADOR COMBO BLACKSTAR HT-1 PARA GUITARRA 1 WATT VALVULAR *USADO*",
       "price": "$399.000,00",
@@ -62,16 +56,22 @@
       "url": "https://www.kaironmusic.com.ar/productos/pedal-joyo-dark-flame-distortion-usado-1pab6/"
     },
     {
-      "id": "358317785",
-      "name": "PEDAL FLAMMA FV04 HARMONY PARA VOCES *USADO*",
-      "price": "$150.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedal-flamma-fv04-harmony-para-voces-usado-yly3e/"
+      "id": "358314521",
+      "name": "Amplificador combo Blackstar ID:Core 20 V3 Para Guitarra *USADO*",
+      "price": "$300.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/amplificador-combo-blackstar-idcore-20-v3-para-guitarra-usado-1jghx/"
     },
     {
-      "id": "358316179",
-      "name": "PEDALERA FLAMMA FX150 MULTIEFECTO PARA GUITARRA O BAJO *USADO*",
-      "price": "$350.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedalera-flamma-fx150-multiefecto-para-guitarra-o-bajo-usado-1swf6/"
+      "id": "358306132",
+      "name": "CAJA MARSHALL MG412 4X12 PARA GUITARRA *USADO*",
+      "price": "$380.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/caja-marshall-mg412-4x12-para-guitarra-usado-1k3vu/"
+    },
+    {
+      "id": "358300476",
+      "name": "Pedal NUX Solid Studio simulador de gabinete *USADO*",
+      "price": "$150.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-nux-solid-studio-simulador-de-gabinete-usado-1c8fy/"
     }
   ]
 }
