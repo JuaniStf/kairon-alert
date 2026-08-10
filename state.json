@@ -44,22 +44,10 @@
       "url": "https://www.kaironmusic.com.ar/productos/amplificador-combo-markbass-minimark-802-para-bajo-150-watts-usado-1k1nk/"
     },
     {
-      "id": "360194129",
-      "name": "PEDALERA LINE 6 HELIX FLOOR MULTIEFECTO *USADO*",
-      "price": "$1.789.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedalera-line-6-helix-floor-multiefecto-usado-pzaxj/"
-    },
-    {
       "id": "360191127",
       "name": "GUITARRA ELECTRICA SK VINTAGE SST57 VWH *USADO*",
       "price": "$319.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-sk-vintage-sst57-vwh-usado-1tg44/"
-    },
-    {
-      "id": "360189431",
-      "name": "GUITARRA ELECTRICA CORT KX307MS 7 CUERDAS MULTIESCALA + FUNDA *USADO*",
-      "price": "$599.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-cort-kx307ms-7-cuerdas-funda-usado-ke24r/"
     },
     {
       "id": "360187300",
@@ -72,6 +60,18 @@
       "name": "PEDALERA NEURAL NANO CORTEX MULTIEFECTO *USADO*",
       "price": "$1.249.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/pedalera-neural-nano-cortex-multiefecto-usado-142it/"
+    },
+    {
+      "id": "359816978",
+      "name": "SET MICROFONOS GUITAR TECHNOLOGY GOP-4A PRECISION BASS *USADO*",
+      "price": "$15.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/set-microfonos-guitar-technology-gop-4a-precision-bass-usado-1slg9/"
+    },
+    {
+      "id": "359812774",
+      "name": "FUENTE PARA PEDALES MAZA FX POWER UP *USADO*",
+      "price": "$20.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/fuente-para-pedales-maza-fx-power-up-usado-vhky3/"
     }
   ]
 }
