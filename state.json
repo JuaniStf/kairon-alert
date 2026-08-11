@@ -20,12 +20,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/pedalera-korg-ax3000g-multiefecto-usado-lhr34/"
     },
     {
-      "id": "350817381",
-      "name": "GUITARRA ELECTRICA IBANEZ JEM JR WHITE *USADO*",
-      "price": "$949.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-ibanez-jem-jr-white-usado-xf29z/"
-    },
-    {
       "id": "346655626",
       "name": "PROCESADOR BEHRINGER RACK V-AMP PRO PARA GUITARRA *USADO*",
       "price": "$149.000,00",
@@ -72,6 +66,12 @@
       "name": "Pedal MOOER CRUNCHER Distortion *USADO*",
       "price": "$49.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/pedal-mooer-cruncher-distortion-usado-1r4tq/"
+    },
+    {
+      "id": "359262912",
+      "name": "Pedal MOOER FOG Bass Fuzz Para Bajo *USADO*",
+      "price": "$49.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-mooer-fog-bass-fuzz-usado-m4aof/"
     }
   ]
 }
