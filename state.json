@@ -26,12 +26,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/procesador-behringer-rack-v-amp-pro-para-guitarra-usado-s90pb/"
     },
     {
-      "id": "317412841",
-      "name": "Soporte Hi Hat Dixon Psh9290c Remoto Sin Patas Para Corral *USADO*",
-      "price": "$190.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/soporte-hi-hat-dixon-psh9290c-remoto-sin-patas-para-corral-usado-4sicr/"
-    },
-    {
       "id": "360196284",
       "name": "AMPLIFICADOR COMBO MARKBASS MINIMARK 802 PARA BAJO 150 WATTS *USADO*",
       "price": "$1.389.000,00",
@@ -56,12 +50,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/pedalera-neural-nano-cortex-multiefecto-usado-142it/"
     },
     {
-      "id": "359812774",
-      "name": "FUENTE PARA PEDALES MAZA FX POWER UP *USADO*",
-      "price": "$20.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/fuente-para-pedales-maza-fx-power-up-usado-vhky3/"
-    },
-    {
       "id": "359263483",
       "name": "Pedal MOOER CRUNCHER Distortion *USADO*",
       "price": "$49.000,00",
@@ -72,6 +60,18 @@
       "name": "Pedal MOOER FOG Bass Fuzz Para Bajo *USADO*",
       "price": "$49.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/pedal-mooer-fog-bass-fuzz-usado-m4aof/"
+    },
+    {
+      "id": "359257012",
+      "name": "Pedal MOOER MICRO BUFFER eleva la señal *USADO*",
+      "price": "$49.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-mooer-micro-buffer-eleva-la-senal-usado-1htt9/"
+    },
+    {
+      "id": "359210364",
+      "name": "PEDALERA NEURAL NANO CORTEX MULTIEFECTO *USADO*",
+      "price": "$1.200.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedalera-neural-nano-cortex-multiefecto-usado-32l04/"
     }
   ]
 }
