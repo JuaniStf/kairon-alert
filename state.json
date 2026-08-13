@@ -32,12 +32,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/amplificador-combo-markbass-minimark-802-para-bajo-150-watts-usado-1k1nk/"
     },
     {
-      "id": "360191127",
-      "name": "GUITARRA ELECTRICA SK VINTAGE SST57 VWH *USADO*",
-      "price": "$319.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-sk-vintage-sst57-vwh-usado-1tg44/"
-    },
-    {
       "id": "359845827",
       "name": "PEDALERA NEURAL NANO CORTEX MULTIEFECTO *USADO*",
       "price": "$1.249.000,00",
@@ -72,6 +66,12 @@
       "name": "PEDAL DANELECTRO PB & J DELAY *USADO*",
       "price": "$80.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/pedal-danelectro-pb-j-delay-usado-15q4t/"
+    },
+    {
+      "id": "358423542",
+      "name": "PEDAL FLAMMA FV05 RECORDER *USADO*",
+      "price": "$150.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-flamma-fv05-recorder-usado-1simi/"
     }
   ]
 }
