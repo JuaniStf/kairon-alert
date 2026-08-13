@@ -38,12 +38,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-sk-vintage-sst57-vwh-usado-1tg44/"
     },
     {
-      "id": "360187300",
-      "name": "GUITARRA ELECTRICA JET GUITARS JS400 OW + FUNDA RB10 *USADO*",
-      "price": "$400.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-jet-guitars-js400-ow-funda-rb10-usado-s9e7t/"
-    },
-    {
       "id": "359845827",
       "name": "PEDALERA NEURAL NANO CORTEX MULTIEFECTO *USADO*",
       "price": "$1.249.000,00",
@@ -72,6 +66,12 @@
       "name": "PEDALERA NEURAL NANO CORTEX MULTIEFECTO *USADO*",
       "price": "$1.200.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/pedalera-neural-nano-cortex-multiefecto-usado-32l04/"
+    },
+    {
+      "id": "359207107",
+      "name": "PEDAL DANELECTRO PB & J DELAY *USADO*",
+      "price": "$80.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-danelectro-pb-j-delay-usado-15q4t/"
     }
   ]
 }
