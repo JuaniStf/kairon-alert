@@ -2,12 +2,6 @@
   "initialized": true,
   "products": [
     {
-      "id": "357427539",
-      "name": "Caja Potenciada Alto Professional TX412B TX Series 600 Watt Bateria Interna Bluetooth *USADO*",
-      "price": "$489.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/caja-potenciada-alto-professional-tx412b-tx-series-600-watt-bateria-interna-bluetooth-usado-1v43r/"
-    },
-    {
       "id": "346655626",
       "name": "PROCESADOR BEHRINGER RACK V-AMP PRO PARA GUITARRA *USADO*",
       "price": "$149.000,00",
@@ -72,6 +66,12 @@
       "name": "CAJA POTENCIADA ALTO PROFESSIONAL UBER FX MKII PORTATIL 200W BT *USADO*",
       "price": "$500.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/caja-potenciada-alto-professional-uber-fx-mkii-portatil-200w-bt-usado-zg7z4/"
+    },
+    {
+      "id": "351255871",
+      "name": "PEDAL MXR OCTAVIO FUZZ OCTAVADOR *USADO*",
+      "price": "$199.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-mxr-octavio-fuzz-octavador-usado-1p08a/"
     }
   ]
 }
