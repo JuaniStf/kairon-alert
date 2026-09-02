@@ -2,12 +2,6 @@
   "initialized": true,
   "products": [
     {
-      "id": "346655626",
-      "name": "PROCESADOR BEHRINGER RACK V-AMP PRO PARA GUITARRA *USADO*",
-      "price": "$149.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/procesador-behringer-rack-v-amp-pro-para-guitarra-usado-s90pb/"
-    },
-    {
       "id": "359257012",
       "name": "Pedal MOOER MICRO BUFFER eleva la señal *USADO*",
       "price": "$49.000,00",
@@ -30,12 +24,6 @@
       "name": "Pedal NUX Solid Studio simulador de gabinete *USADO*",
       "price": "$150.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/pedal-nux-solid-studio-simulador-de-gabinete-usado-1c8fy/"
-    },
-    {
-      "id": "318034011",
-      "name": "Amplificador Darkglass DG112D Infinity 500 Combo 112 Para Bajo *USADO*",
-      "price": "$2.260.471,19",
-      "url": "https://www.kaironmusic.com.ar/productos/amplificador-darkglass-dg112d-infinity-500-combo-112-para-bajo-usado-d9c3n/"
     },
     {
       "id": "318034611",
@@ -72,6 +60,18 @@
       "name": "GUITARRA ELECTRICA SPIRA S-400 MGR SATIN DARK GREEN *USADO*",
       "price": "$600.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-spira-s-400-mgr-satin-dark-green-usado-cqf0d/"
+    },
+    {
+      "id": "361922727",
+      "name": "BAJO EPIPHONE THUNDERBIRD PRO V VINTAGE SUNBURST 5 CUERDAS *USADO*",
+      "price": "$1.500.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/bajo-epiphone-thunderbird-pro-v-vintage-sunburst-5-cuerdas-usado-fn724/"
+    },
+    {
+      "id": "362102265",
+      "name": "MICRÓFONOS PARA STRATOCASTER GENERICOS *USADO*",
+      "price": "$20.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/microfonos-para-stratocaster-genericos-usado-1iztl/"
     }
   ]
 }
