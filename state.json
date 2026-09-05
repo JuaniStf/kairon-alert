@@ -2,12 +2,6 @@
   "initialized": true,
   "products": [
     {
-      "id": "359257012",
-      "name": "Pedal MOOER MICRO BUFFER eleva la señal *USADO*",
-      "price": "$39.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedal-mooer-micro-buffer-eleva-la-senal-usado-1htt9/"
-    },
-    {
       "id": "359207107",
       "name": "PEDAL DANELECTRO PB & J DELAY *USADO*",
       "price": "$70.000,00",
@@ -68,10 +62,16 @@
       "url": "https://www.kaironmusic.com.ar/productos/microfonos-para-stratocaster-genericos-usado-1iztl/"
     },
     {
-      "id": "362066974",
-      "name": "PEDAL JOYO HIGH GAIN DISTORTION *USADO*",
-      "price": "$45.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedal-joyo-high-gain-distortion-usado-1ecxa/"
+      "id": "362934705",
+      "name": "AMPLIFICADOR DE AURICULARES VOX AMPLUG AP2-AC *USADO*",
+      "price": "$60.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/amplificador-de-auriculares-vox-amplug-ap2-ac-usado-j7459/"
+    },
+    {
+      "id": "363097615",
+      "name": "PEDAL ELECTRO HARMONIX EHXTORTION *USADO*",
+      "price": "$250.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-electro-harmonix-ehxtortion-usado-18ojt/"
     }
   ]
 }
