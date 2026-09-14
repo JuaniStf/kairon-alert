@@ -38,12 +38,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/caja-potenciada-alto-professional-uber-fx-mkii-portatil-200w-bt-usado-zg7z4/"
     },
     {
-      "id": "361965193",
-      "name": "GUITARRA ELECTRICA SPIRA S-400 MGR SATIN DARK GREEN *USADO*",
-      "price": "$600.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-spira-s-400-mgr-satin-dark-green-usado-cqf0d/"
-    },
-    {
       "id": "361922727",
       "name": "BAJO EPIPHONE THUNDERBIRD PRO V VINTAGE SUNBURST 5 CUERDAS *USADO*",
       "price": "$1.500.000,00",
@@ -68,10 +62,16 @@
       "url": "https://www.kaironmusic.com.ar/productos/guitarra-acustica-samick-greg-bennett-gd-50-mini-usado-tvgvz/"
     },
     {
-      "id": "363951511",
-      "name": "PEDALERA LINE 6 AMPLIFI FX100 MULTIEFECTO *USADO*",
-      "price": "$220.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedalera-line-6-amplifi-fx100-multiefecto-usado-1c1bs/"
+      "id": "365223609",
+      "name": "SISTEMA INALAMBRICO PHENYX PRO PTM-11 *USADO*",
+      "price": "$225.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/sistema-inalambrico-phenyx-pro-ptm-11-usado-1j4fb/"
+    },
+    {
+      "id": "365312934",
+      "name": "CAJA LANEY CUB CAB 2X12 PARA GUITARRA *USADO*",
+      "price": "$399.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/caja-laney-cub-cab-2x12-para-guitarra-usado-1wq7v/"
     }
   ]
 }
