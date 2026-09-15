@@ -2,12 +2,6 @@
   "initialized": true,
   "products": [
     {
-      "id": "359207107",
-      "name": "PEDAL DANELECTRO PB & J DELAY *USADO*",
-      "price": "$49.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedal-danelectro-pb-j-delay-usado-15q4t/"
-    },
-    {
       "id": "358423542",
       "name": "PEDAL FLAMMA FV05 RECORDER *USADO*",
       "price": "$119.000,00",
@@ -72,6 +66,12 @@
       "name": "CAJA LANEY CUB CAB 2X12 PARA GUITARRA *USADO*",
       "price": "$399.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/caja-laney-cub-cab-2x12-para-guitarra-usado-1wq7v/"
+    },
+    {
+      "id": "365436147",
+      "name": "SISTEMA INALAMBRICO SAMSON CR77 + AG1 *USADO*",
+      "price": "$170.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/sistema-inalambrico-samson-cr77-ag1-usado-bt1bv/"
     }
   ]
 }
