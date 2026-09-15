@@ -50,12 +50,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/pedal-electro-harmonix-ehxtortion-usado-18ojt/"
     },
     {
-      "id": "363639826",
-      "name": "GUITARRA ACUSTICA SAMICK GREG BENNETT GD-50 MINI *USADO*",
-      "price": "$249.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/guitarra-acustica-samick-greg-bennett-gd-50-mini-usado-tvgvz/"
-    },
-    {
       "id": "365223609",
       "name": "SISTEMA INALAMBRICO PHENYX PRO PTM-11 *USADO*",
       "price": "$225.000,00",
@@ -72,6 +66,12 @@
       "name": "SISTEMA INALAMBRICO SAMSON CR77 + AG1 *USADO*",
       "price": "$170.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/sistema-inalambrico-samson-cr77-ag1-usado-bt1bv/"
+    },
+    {
+      "id": "365192753",
+      "name": "PEDAL FLAMMA FS06 PREAMP *USADO*",
+      "price": "$70.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-flamma-fs06-preamp-usado-uhino/"
     }
   ]
 }
