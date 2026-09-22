@@ -2,12 +2,6 @@
   "initialized": true,
   "products": [
     {
-      "id": "358423542",
-      "name": "PEDAL FLAMMA FV05 RECORDER *USADO*",
-      "price": "$119.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedal-flamma-fv05-recorder-usado-1simi/"
-    },
-    {
       "id": "336344412",
       "name": "Amplificador Hotone Pulze AP30BK Multifuncional Bluetooth Modeling Black 30 Watts *USADO*",
       "price": "$499.000,00",
@@ -42,12 +36,6 @@
       "name": "PEDAL ELECTRO HARMONIX EHXTORTION *USADO*",
       "price": "$250.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/pedal-electro-harmonix-ehxtortion-usado-18ojt/"
-    },
-    {
-      "id": "365223609",
-      "name": "SISTEMA INALAMBRICO PHENYX PRO PTM-11 *USADO*",
-      "price": "$225.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/sistema-inalambrico-phenyx-pro-ptm-11-usado-1j4fb/"
     },
     {
       "id": "365312934",
