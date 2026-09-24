@@ -50,15 +50,9 @@
       "url": "https://www.kaironmusic.com.ar/productos/sistema-inalambrico-samson-cr77-ag1-usado-bt1bv/"
     },
     {
-      "id": "363935824",
-      "name": "CABEZAL LINE 6 SPIDER IV 150 WATTS *USADO*",
-      "price": "$329.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/cabezal-line-6-spider-iv-150-watts-usado-1xh30/"
-    },
-    {
       "id": "369072775",
       "name": "Guitarra Sx Vintage Series SST57 BK *USADO*",
-      "price": "$370.000,00",
+      "price": "$319.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/guitarra-sx-vintage-series-sst57-bk-usado-1ym0j/"
     },
     {
@@ -72,6 +66,12 @@
       "name": "Guitarra Ibanez RC330T Roadcore Series Blackberry Sunburst *USADO*",
       "price": "$700.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/guitarra-ibanez-rc330t-roadcore-series-blackberry-sunburst-usado-x0xud/"
+    },
+    {
+      "id": "368842663",
+      "name": "Guitarra Epiphone Les Paul Modern Figured Caribbean Blue Fade *USADO*",
+      "price": "$1.200.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/guitarra-epiphone-les-paul-modern-figured-caribbean-blue-fade-usado-9xc3u/"
     }
   ]
 }
