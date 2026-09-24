@@ -50,12 +50,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/sistema-inalambrico-samson-cr77-ag1-usado-bt1bv/"
     },
     {
-      "id": "369072775",
-      "name": "Guitarra Sx Vintage Series SST57 BK *USADO*",
-      "price": "$319.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/guitarra-sx-vintage-series-sst57-bk-usado-1ym0j/"
-    },
-    {
       "id": "369049004",
       "name": "Guitarra Schecter Banshee Extreme 7 Charcoal Burst 7 Cuerdas *USADO*",
       "price": "$800.000,00",
@@ -72,6 +66,12 @@
       "name": "Bajo Cort C5H White Pearl 5 Cuerdas *USADO*",
       "price": "$700.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/bajo-cort-c5h-white-pearlusado-1k1cu/"
+    },
+    {
+      "id": "369034381",
+      "name": "Guitarra Electrica S by Solar TB4.6W Telecaster *USADO*",
+      "price": "$350.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-s-by-solar-tb4-6w-telecaster-usado-1adec/"
     }
   ]
 }
