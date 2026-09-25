@@ -56,12 +56,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/guitarra-schecter-banshee-extreme-7-charcoal-burst-7-cuerdas-usado-zz914/"
     },
     {
-      "id": "368994914",
-      "name": "Guitarra Ibanez RC330T Roadcore Series Blackberry Sunburst *USADO*",
-      "price": "$700.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/guitarra-ibanez-rc330t-roadcore-series-blackberry-sunburst-usado-x0xud/"
-    },
-    {
       "id": "368840603",
       "name": "Bajo Cort C5H White Pearl 5 Cuerdas *USADO*",
       "price": "$700.000,00",
@@ -72,6 +66,12 @@
       "name": "Guitarra Electrica S by Solar TB4.6W Telecaster *USADO*",
       "price": "$350.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/guitarra-electrica-s-by-solar-tb4-6w-telecaster-usado-1adec/"
+    },
+    {
+      "id": "369749418",
+      "name": "PROCESADOR LINE 6 POD EXPRESS MULTIEFECTO *USADO*",
+      "price": "$249.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/procesador-line-6-pod-express-multiefecto-usado-4gy1q/"
     }
   ]
 }
