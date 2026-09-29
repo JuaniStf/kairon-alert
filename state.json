@@ -56,12 +56,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/amplificador-de-auriculares-vox-amplug-2-blues-usado-2nu2c/"
     },
     {
-      "id": "369721003",
-      "name": "PARLANTE EMINENCE THE GOVERNOR RED COAT 12\" *USADO*",
-      "price": "$180.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/parlante-eminence-the-governor-red-coat-12-usado-1leuc/"
-    },
-    {
       "id": "369737972",
       "name": "PEDAL KEELEY MONTEREY MULTIEFECTO *USADO*",
       "price": "$300.000,00",
@@ -72,6 +66,12 @@
       "name": "PEDAL ROGUE ODV-5 OVERDRIVE *USADO*",
       "price": "$35.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/pedal-rogue-odv-5-overdrive-usado-1qx4j/"
+    },
+    {
+      "id": "369691456",
+      "name": "PEDAL BOSS EV-30 DUAL EXPRESSION PEDAL *USADO*",
+      "price": "$250.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-boss-ev-30-dual-expression-pedal-usado-g0hpy/"
     }
   ]
 }
