@@ -44,12 +44,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/sistema-inalambrico-samson-cr77-ag1-usado-bt1bv/"
     },
     {
-      "id": "369751299",
-      "name": "PEDALERA ZOOM B2 BASS PARA BAJO *USADO*",
-      "price": "$70.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedalera-zoom-b2-bass-para-bajo-usado-12hy2/"
-    },
-    {
       "id": "369758455",
       "name": "AMPLIFICADOR DE AURICULARES VOX AMPLUG 2 BLUES *USADO*",
       "price": "$60.000,00",
@@ -62,16 +56,22 @@
       "url": "https://www.kaironmusic.com.ar/productos/pedal-keeley-monterey-multiefecto-usado-vl0wj/"
     },
     {
-      "id": "369658899",
-      "name": "PEDAL ROGUE ODV-5 OVERDRIVE *USADO*",
-      "price": "$35.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedal-rogue-odv-5-overdrive-usado-1qx4j/"
+      "id": "370923474",
+      "name": "CABEZAL GALLIEN KRUEGER 400RB MARK-IV PARA BAJO *USADO*",
+      "price": "$700.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/cabezal-gallien-krueger-400rb-mark-iv-para-bajo-usado-mj2sr/"
     },
     {
-      "id": "369691456",
-      "name": "PEDAL BOSS EV-30 DUAL EXPRESSION PEDAL *USADO*",
-      "price": "$250.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedal-boss-ev-30-dual-expression-pedal-usado-g0hpy/"
+      "id": "370930371",
+      "name": "CAJA HARTKE XL SERIES 410XL PARA BAJO *USADO*",
+      "price": "$800.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/caja-hartke-xl-series-410xl-para-bajo-usado-1msek/"
+    },
+    {
+      "id": "370938419",
+      "name": "AMPLIFICADOR COMBO MARSHALL MG10CF *USADO*",
+      "price": "$130.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/amplificador-combo-marshall-mg10cf-usado-4lrlh/"
     }
   ]
 }
