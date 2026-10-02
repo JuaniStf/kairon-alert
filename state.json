@@ -44,12 +44,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/amplificador-de-auriculares-vox-amplug-2-blues-usado-2nu2c/"
     },
     {
-      "id": "369737972",
-      "name": "PEDAL KEELEY MONTEREY MULTIEFECTO *USADO*",
-      "price": "$300.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedal-keeley-monterey-multiefecto-usado-vl0wj/"
-    },
-    {
       "id": "370923474",
       "name": "CABEZAL GALLIEN KRUEGER 400RB MARK-IV PARA BAJO *USADO*",
       "price": "$700.000,00",
@@ -72,6 +66,12 @@
       "name": "PEDALERA BOSS GT-1000 COREB *USADO*",
       "price": "$1.100.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/pedalera-boss-gt-1000-coreb-usado-ysetq/"
+    },
+    {
+      "id": "370914799",
+      "name": "PEDAL VOX DELAYLAB *USADO*",
+      "price": "$229.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-vox-delaylab-usado-1s25e/"
     }
   ]
 }
