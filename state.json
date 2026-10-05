@@ -44,12 +44,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/amplificador-de-auriculares-vox-amplug-2-blues-usado-2nu2c/"
     },
     {
-      "id": "370930371",
-      "name": "CAJA HARTKE XL SERIES 410XL PARA BAJO *USADO*",
-      "price": "$800.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/caja-hartke-xl-series-410xl-para-bajo-usado-1msek/"
-    },
-    {
       "id": "370938419",
       "name": "AMPLIFICADOR COMBO MARSHALL MG10CF *USADO*",
       "price": "$130.000,00",
@@ -72,6 +66,12 @@
       "name": "AMPLIFICADOR COMBO BLACKSTAR LT-ECHO 10 WATTS *USADO*",
       "price": "$120.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/amplificador-combo-blackstar-lt-echo-10-watts-usado-1w2ir/"
+    },
+    {
+      "id": "370674978",
+      "name": "CONTROLADOR MIDI NOVATION LAUNCHKEY 61 *USADO*",
+      "price": "$300.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/controlador-midi-novation-launchkey-61-usado-ehb9t/"
     }
   ]
 }
