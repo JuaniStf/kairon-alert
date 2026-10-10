@@ -2,12 +2,6 @@
   "initialized": true,
   "products": [
     {
-      "id": "336344412",
-      "name": "Amplificador Hotone Pulze AP30BK Multifuncional Bluetooth Modeling Black 30 Watts *USADO*",
-      "price": "$499.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/amplificador-hotone-pulze-ap30bk-multifuncional-bluetooth-modeling-black-30-watts-usado-1llhw/"
-    },
-    {
       "id": "336342138",
       "name": "Amplificador Hotone Pulze AP30WH Multifuncional Bluetooth Modeling White 30 Watts *USADO*",
       "price": "$499.000,00",
@@ -72,6 +66,12 @@
       "name": "BOSS GA-FC FOOT CONTROLLER *USADO*",
       "price": "$250.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/boss-ga-fc-foot-controller-usado-18n4o/"
+    },
+    {
+      "id": "370640052",
+      "name": "PEDALERA ZOOM G2 FOUR *USADO*",
+      "price": "$270.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedalera-zoom-g2-four-usado-r9k9t/"
     }
   ]
 }
