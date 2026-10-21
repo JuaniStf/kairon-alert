@@ -56,12 +56,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/caja-hartke-xl-series-410xl-para-bajo-usado-1msek/"
     },
     {
-      "id": "361922727",
-      "name": "BAJO EPIPHONE THUNDERBIRD PRO V VINTAGE SUNBURST 5 CUERDAS *USADO*",
-      "price": "$1.500.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/bajo-epiphone-thunderbird-pro-v-vintage-sunburst-5-cuerdas-usado-fn724/"
-    },
-    {
       "id": "374447266",
       "name": "PEDALERA ZOOM G3N MULTIEFECTO PARA GUITARRA *USADO*",
       "price": "$180.000,00",
@@ -72,6 +66,12 @@
       "name": "PEDAL NUX LOOP CORE DELUXE BUNDLE *USADO*",
       "price": "$200.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/pedal-nux-loop-core-deluxe-bundle-usado-1lsdx/"
+    },
+    {
+      "id": "374438536",
+      "name": "PEDAL STRYMON BLUESKY REVERBERATOR *USADO*",
+      "price": "$550.000,00",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-strymon-bluesky-reverberator-usado-4zkpx/"
     }
   ]
 }
