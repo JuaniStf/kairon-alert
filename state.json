@@ -2,12 +2,6 @@
   "initialized": true,
   "products": [
     {
-      "id": "336342138",
-      "name": "Amplificador Hotone Pulze AP30WH Multifuncional Bluetooth Modeling White 30 Watts *USADO*",
-      "price": "$523.950,00",
-      "url": "https://www.kaironmusic.com.ar/productos/amplificador-hotone-pulze-ap30wh-multifuncional-bluetooth-modeling-white-30-watts-usado-2bbey/"
-    },
-    {
       "id": "348189675",
       "name": "CAJA POTENCIADA ALTO PROFESSIONAL UBER FX MKII PORTATIL 200W BT *USADO*",
       "price": "$525.000,00",
@@ -72,6 +66,12 @@
       "name": "PEDAL AMPEG SCRAMBLER BASS OVERDRIVE *USADO*",
       "price": "$178.500,00",
       "url": "https://www.kaironmusic.com.ar/productos/pedal-ampeg-scrambler-bass-overdrive-usado-rlbbn/"
+    },
+    {
+      "id": "375705634",
+      "name": "AMPLIFICADOR COMBO PEAVEY KB15 PARA TECLADO *USADO*",
+      "price": "$207.900,00",
+      "url": "https://www.kaironmusic.com.ar/productos/amplificador-combo-peavey-kb15-para-teclado-usado-1hgxf/"
     }
   ]
 }
