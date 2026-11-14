@@ -20,12 +20,6 @@
       "url": "https://www.kaironmusic.com.ar/productos/amplificador-combo-marshall-mg10cf-usado-4lrlh/?entry_path=category"
     },
     {
-      "id": "370640052",
-      "name": "PEDALERA ZOOM G2 FOUR *USADO*",
-      "price": "$179.000,00",
-      "url": "https://www.kaironmusic.com.ar/productos/pedalera-zoom-g2-four-usado-r9k9t/?entry_path=category"
-    },
-    {
       "id": "374240209",
       "name": "PEDAL DARKGLASS ALPHA OMEGA ULTRA PREAMP DISTORTION *USADO*",
       "price": "$607.950,00",
@@ -70,8 +64,14 @@
     {
       "id": "375407782",
       "name": "CABEZAL MESA BOOGIE SINGLE RECTIFIER SOLO HEAD 50 VALVULAR *USADO*",
-      "price": "$2.625.000,00",
+      "price": "$1.899.000,00",
       "url": "https://www.kaironmusic.com.ar/productos/cabezal-mesa-boogie-single-rectifier-solo-head-50-valvular-usado-smm7s/?entry_path=category"
+    },
+    {
+      "id": "375429196",
+      "name": "PEDAL TAURUS ABIGAR BLACK LINE OVERDRIVE *USADO*",
+      "price": "$83.998,95",
+      "url": "https://www.kaironmusic.com.ar/productos/pedal-taurus-abigar-black-line-overdrive-usado-1r34y/?entry_path=category"
     }
   ]
 }
